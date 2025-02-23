@@ -2,7 +2,7 @@ import React from 'react';
 import './Card.css';
 
 const UserCard = () => {
-  const profilePhoto = 'https://via.placeholder.com/150';
+  const profilePhoto = 'https://www.lismore.nsw.gov.au/files/assets/public/v/1/1.-households/4.-pets-and-animals/images/kitten.jpg?dimension=pageimage&w=480';
   const name = 'Dhruv malviya';
   const email = 'dhruv@gmail.com';
   const phoneNumber = '6268963229';
